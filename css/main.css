@@ -1,1 +1,10 @@
 /* Place CSS styles here */
+body{
+    background-color:blueviolet;
+
+}
+
+
+img{
+    width: 200px;
+}
