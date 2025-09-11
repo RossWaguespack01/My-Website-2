@@ -8,3 +8,75 @@ body{
 img{
     width: 200px;
 }
+
+.title {
+    text-align: center;
+    color: blue; 
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid black;
+    font-size: 4em;
+
+}
+
+.summary{
+    text-align: center;
+    font-size: 3.5em;
+}
+
+.text1{
+    text-align: center; 
+    font-size: 2em
+}
+
+.friends{
+    text-align: center; 
+    font-size: 3em
+}
+
+.portfolio{
+    text-align: center; 
+    font-size: 4em
+}
+
+.portfoliotext1{
+    text-align: center; 
+    font-size: 2em
+}
+.portfoliotext2{
+    text-align: center; 
+    font-size: 2em
+}
+
+.portfoliotext3{
+    text-align: center; 
+    font-size: 2em
+}
+
+.influences{
+    text-align: center; 
+    font-size: 3em
+}
+
+.contact{
+    text-align: center; 
+    font-size: 3.5em
+}
+
+.point1{
+    text-align: center; 
+    font-size: 2em
+}
+.point2{
+    text-align: center; 
+    font-size: 2em
+}
+.point3{
+    text-align: center; 
+    font-size: 2em
+}
+.contact{
+    text-align: center; 
+    font-size: 3em
+}
